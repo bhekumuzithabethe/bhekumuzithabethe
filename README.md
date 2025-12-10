@@ -1,12 +1,54 @@
-Hi there 👋,I'm Bhekumuzi Thabethe, a frontend and backend django web developer from South Africa. I'm a Computer Science student from the University of the Western Cape, 
-South Africa with 4 years experience developing, testing, and deploying django web applications.
+# 👋 Hi, I'm Bhekumzi Thabethe
 
-- 🔭 I'm currently a computer science student from the University of the Western Cape
-- 🌱 I’m always developing, testing, and deploying django web applications for practice purposes, solving everyday problems we face in my community as
-  I'm from a very poor background. 
-- 🤔 I’m looking for help with internships and frontend web development job posts to gain work experience.
-- 📫 How to reach me: 4123449@myuwc.ac.za
-- 🔗 My Website: Coming Soon...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy programming and solving problems in ( Mathematics, Mathematical Statistics, Data Science ), I also into Zulu tradition, as I'm coming from a Nguni family in
-  South Arica.
+I'm a full-stack Django web developer from South Africa, passionate about building scalable, user-friendly applications that solve real-world problems. I recently graduated with a Bachelor of Science in Computer Science from the University of the Western Cape, and I bring 4+ years of hands-on experience developing, testing, and deploying Django-based solutions.
+
+---
+
+## 💼 Professional Snapshot
+
+- 🎓 **Student Developer**  
+  University of the Western Cape  
+  Built responsive websites, explored modern front-end frameworks, and applied OOP principles in team projects using agile methodologies.
+
+- 💻 **Web Developer @ Webmax Solutions**  
+  Led Django + React projects, implemented CI/CD pipelines, and improved system performance by 40%.
+
+- ⚙️ **Backend Developer @ Ontec Systems Pty, Ltd.**  
+  Designed RESTful APIs and scalable backend systems for millions of users. Provided architectural leadership and managed deployments across environments.
+
+---
+
+## 🧠 Skills & Tools
+
+- **Languages:** Python, JavaScript, HTML/CSS, SQL  
+- **Frameworks:** Django, React, MVC Core, Razor  
+- **DevOps:** GitHub Actions, Docker, TFS  
+- **Databases:** PostgreSQL, MS SQL Server  
+- **Other:** Bootstrap, Identity Server, RESTful APIs, CI/CD, Agile
+
+---
+
+## 🌱 What I'm Working On
+
+- Building production-ready Django apps with secure deployment workflows  
+- Designing responsive UI/UX with dark mode and theming  
+- Exploring automation and diagnostics with Python scripting  
+- Polishing my portfolio website to showcase recent projects
+
+---
+
+## 📫 Contact Me
+
+- Email: [4123449@myuwc.ac.za](mailto:4123449@myuwc.ac.za)  
+- Website: Coming Soon...  
+- Pronouns: he/him
+
+---
+
+## ⚡ Fun Fact
+
+I love solving problems in mathematics, statistics, and data science — and I’m deeply connected to my Zulu heritage as part of the Nguni community in South Africa.
+
+---
+
+> 💬 I'm open to internships, freelance opportunities, and junior developer roles — especially in frontend or full-stack development. Let’s build something meaningful together!
