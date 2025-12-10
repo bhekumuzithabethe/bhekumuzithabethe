@@ -45,10 +45,10 @@ I'm a full-stack Django web developer from South Africa, passionate about buildi
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 I love solving problems in mathematics, statistics, and data science — and I’m deeply connected to my Zulu heritage as part of the Nguni community in South Africa.
 
 ---
 
-> 💬 I'm open to internships, freelance opportunities, and junior developer roles — especially in frontend or full-stack development. Let’s build something meaningful together!
+> I'm open to internships, freelance opportunities, and junior developer roles — especially in frontend or full-stack development. Let’s build something meaningful together!
