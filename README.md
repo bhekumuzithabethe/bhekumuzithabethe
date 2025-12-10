@@ -1,24 +1,24 @@
-# 👋 Hi, I'm Bhekumzi Thabethe
+# Hi there, I'm Bhekumzi Thabethe
 
 I'm a full-stack Django web developer from South Africa, passionate about building scalable, user-friendly applications that solve real-world problems. I recently graduated with a Bachelor of Science in Computer Science from the University of the Western Cape, and I bring 4+ years of hands-on experience developing, testing, and deploying Django-based solutions.
 
 ---
 
-## 💼 Professional Snapshot
+## Professional Snapshot
 
-- 🎓 **Student Developer**  
+- **Student Developer**  
   University of the Western Cape  
   Built responsive websites, explored modern front-end frameworks, and applied OOP principles in team projects using agile methodologies.
 
-- 💻 **Web Developer @ Webmax Solutions**  
+- **Web Developer @ Webmax Solutions**  
   Led Django + React projects, implemented CI/CD pipelines, and improved system performance by 40%.
 
-- ⚙️ **Backend Developer @ Ontec Systems Pty, Ltd.**  
+- **Full Stack Software Developer Engineer @ Ontec Systems Pty, Ltd.**  
   Designed RESTful APIs and scalable backend systems for millions of users. Provided architectural leadership and managed deployments across environments.
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 - **Languages:** Python, JavaScript, HTML/CSS, SQL  
 - **Frameworks:** Django, React, MVC Core, Razor  
@@ -28,7 +28,7 @@ I'm a full-stack Django web developer from South Africa, passionate about buildi
 
 ---
 
-## 🌱 What I'm Working On
+## What I'm Working On
 
 - Building production-ready Django apps with secure deployment workflows  
 - Designing responsive UI/UX with dark mode and theming  
@@ -37,7 +37,7 @@ I'm a full-stack Django web developer from South Africa, passionate about buildi
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - Email: [4123449@myuwc.ac.za](mailto:4123449@myuwc.ac.za)  
 - Website: Coming Soon...  
