@@ -39,9 +39,8 @@ I'm a full-stack Django web developer from South Africa, passionate about buildi
 
 ## Contact Me
 
-- Email: [4123449@myuwc.ac.za](mailto:4123449@myuwc.ac.za)  
-- Website: Coming Soon...  
-- Pronouns: he/him
+- Email: [bhekumuzithabethe2019@gmail.com](mailto:bhekumuzithabethe2019@gmail.com)  
+- Website:  [Bhekumuzi Thabethe](https://bhekumuzithabethe.online) 
 
 ---
 
